@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "jf 2/15/2010 16:04",
+	"super" : "CTSmallDictionary",
+	"category" : "Containers-OrderedMultiMap",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CTOrderedMultiMap",
+	"type" : "normal"
+}

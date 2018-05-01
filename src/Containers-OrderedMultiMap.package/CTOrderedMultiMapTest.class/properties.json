@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CTSmallDictionaryTest",
+	"category" : "Containers-OrderedMultiMap-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CTOrderedMultiMapTest",
+	"type" : "normal"
+}
