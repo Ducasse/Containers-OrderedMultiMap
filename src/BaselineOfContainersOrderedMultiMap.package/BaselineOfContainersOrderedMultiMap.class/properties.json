@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfContainersOrderedMultiMap",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfContainersOrderedMultiMap",
+	"type" : "normal"
+}
