@@ -11,7 +11,7 @@ Class {
 		'keys',
 		'values'
 	],
-	#category : 'Containers-OrderedMultiMap'
+	#category : #'Containers-OrderedMultiMap'
 }
 
 { #category : #'instance creation' }

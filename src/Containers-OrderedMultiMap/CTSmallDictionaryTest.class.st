@@ -4,7 +4,7 @@ Class {
 	#instVars : [
 		'collection'
 	],
-	#category : 'Containers-OrderedMultiMap-Tests'
+	#category : #'Containers-OrderedMultiMap-Tests'
 }
 
 { #category : #configuration }

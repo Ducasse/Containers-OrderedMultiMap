@@ -1,7 +1,7 @@
 Class {
 	#name : #CTOrderedMultiMapTest,
 	#superclass : #CTSmallDictionaryTest,
-	#category : 'Containers-OrderedMultiMap-Tests'
+	#category : #'Containers-OrderedMultiMap-Tests'
 }
 
 { #category : #testing }
