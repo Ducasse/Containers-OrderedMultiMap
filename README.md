@@ -6,4 +6,4 @@ can only load the collection they need without 100 of related collections.
 
 ----
 The best way to predict the future is to do it!
-Less talking more doing. stepharo.self@gmail.com
+Less talking more doing. 
