@@ -1,14 +1,14 @@
 SmalltalkCISpec {
   #loading : [
     SCIMetacelloLoadSpec {
-      #baseline : 'ContainersGrid',
+      #baseline : 'ContainersOrderedMultiMap',
       #directory : 'src',
       #platforms : [ #pharo ]
     }
   ],
   #testing : {
     #coverage : {
-      #packages : [ 'Containers-Grid' ]
+      #packages : [ 'Containers-OrderedMultiMap' ]
     }
   }
 }
