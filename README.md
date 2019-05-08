@@ -13,8 +13,20 @@ This package is part of the Containers project: This project is to collect, clea
 test and document alternate collection datastructures. Each package is modular so that users 
 can only load the collection they need without 100 of related collections.
 
+## Install
+To install this project, run the following script in a playground:
 
+```st
+Metacello new
+	baseline: 'ContainersOrderedMultiMap';
+	repository: 'github://Ducasse/Containers-OrderedMultiMap/src';
+	load
 ```
+
+## Example
+To have an overview of the features this datastructure provide, have a look at the following code snippet (extracted from a unit test:
+
+```st
 CTOrderedMultiMapTest >> testAllAt [
 	self assert: (collection allAt: '1') equals: #().
 	collection at: '1' add: 'foo'.
