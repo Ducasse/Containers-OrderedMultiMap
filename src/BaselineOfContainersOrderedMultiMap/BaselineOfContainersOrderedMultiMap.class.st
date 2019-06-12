@@ -10,6 +10,7 @@ BaselineOfContainersOrderedMultiMap >> baseline: spec [
 
 	spec for: #pharo do: [		
 		spec 
-			package: 'Containers-OrderedMultiMap'.
+			package: 'Containers-OrderedMultiMap';
+			package: 'Containers-OrderedMultiMap-Tests' with: [ spec requires: #('Containers-OrderedMultiMap') ].
 		]
 ]
