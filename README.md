@@ -7,7 +7,7 @@
 
 <!-- [![Build status](https://ci.appveyor.com/api/projects/status/1wdnjvmlxfbml8qo?svg=true)](https://ci.appveyor.com/project/olekscode/dataframe)  -->
 
-
+OrderedMultimap is a dictionary whose values are a collection. 
 
 This package is part of the Containers project: This project is to collect, clean, 
 test and document alternate collection datastructures. Each package is modular so that users 
@@ -16,7 +16,7 @@ can only load the collection they need without 100 of related collections.
 
 
 ## Example
-To have an overview of the features this datastructure provide, have a look at the following code snippet (extracted from a unit test:
+To have an overview of the features this datastructure provides, have a look at the following code.
 
 ```st
 CTOrderedMultiMapTest >> testAllAt [
