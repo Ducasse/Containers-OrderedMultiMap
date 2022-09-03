@@ -41,7 +41,7 @@ Metacello new
 
 ```smalltalk
 spec 
-   baseline: 'ContainersStack' 
+   baseline: 'ContainersOrderedMultiMap' 
    with: [ spec repository: 'github://Ducasse/Containers-OrderedMultiMap/src' ].
 ```
 
